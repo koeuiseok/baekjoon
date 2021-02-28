@@ -32,7 +32,7 @@ int main()
 	memset(alphabet, -1, sizeof(alphabet));
 	for (i = 0; i < num; i++)
 	{
-		temp = (int)input[num - 1 - i]-97;
+		temp = (int)input[num - 1 - i]-(int)'a';
 		alphabet[temp] = num - 1 - i;;
 	}
 
