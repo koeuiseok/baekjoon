@@ -4,10 +4,5 @@ Solving baekjoon
 
 step 1
 --------
+### 2021-02-26 ~ 
 ### difficulty : very easy ~ easy
-
-step 2
---------
-### difficulty : normal..?
-
-
