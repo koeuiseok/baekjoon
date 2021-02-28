@@ -38,7 +38,7 @@ int per_line(LineData* ld)
 	per *= 10000;
 	cnt = floor(per);
 	per = per/100;
-	printf("%.3f%%\n", per);
+	printf("%3.3f%%\n", per);
 
 	return 0;
 }
