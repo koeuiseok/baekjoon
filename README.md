@@ -9,12 +9,12 @@ step 1
 ### 2021-02-26 ~ 
 ### difficulty : bronze 
 
-step2
+step 2
 -------
 ### 2021-03-08
 ### difficulty : silver 
 
-step2
+step 3
 -------
 ### 2021-03-13
 ### difficulty : gold
