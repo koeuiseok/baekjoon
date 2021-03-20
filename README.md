@@ -1,8 +1,8 @@
 Solving baekjoon  
 =================
-> Start 2021-02-26 c
-> Start 2021-03-16 c++
-> will add 2021-03~ python
+### Start 2021-02-26 c
+### Start 2021-03-16 c++
+### will add 2021-03~ python
 
 step 1
 --------
@@ -15,3 +15,7 @@ step 2
 step 3
 -------
 ### difficulty : gold
+
+helper
+--------
+help fuction
